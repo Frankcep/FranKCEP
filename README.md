@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Frankcep/FranKCEP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
  PRESENTACIÓN
 
 - 🌱 Actualmente estoy estudiando DAW en Centro de Estudios Politecnicos en Barcelona.
@@ -15,4 +10,5 @@ Here are some ideas to get you started:
 
 - 📫 Para contactarme podeis escribirme a mi correo: "Por ahora privado esto es una practica"
 
--->
+
+###
